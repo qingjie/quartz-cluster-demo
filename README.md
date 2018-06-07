@@ -11,3 +11,7 @@ CREATE DATABASE quartz_cluster_demo DEFAULT CHARACTER SET utf8 COLLATE utf8_gene
 导入DB
 
 
+Spring Boot how to hide passwords in properties file
+# https://stackoverflow.com/questions/37404703/spring-boot-how-to-hide-passwords-in-properties-file
+
+
